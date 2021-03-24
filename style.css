@@ -38,19 +38,6 @@ a{
 .navbar-brand:hover{
 color: rgb(175, 175, 175) !important
 }
-/* Images */
-img{
-    width:100% !important;
-    height:100% !important;
-}
-.active, panel.hover{
-    border-color:#0BADA6;
-    border-style: solid;
-}
-.visualization{
-    width: 50% !important;
-    height: 50% !important;
-}
 /* Title */
 .title{
     color: #0BADA6;
