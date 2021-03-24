@@ -38,11 +38,6 @@ a{
 .navbar-brand:hover{
 color: rgb(175, 175, 175) !important
 }
-/* Images */
-.active, .panel:hover{
-    border-color:#0BADA6;
-    border-style: solid;
-}
 /* Title */
 .title{
     color: #0BADA6;
